@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-
+![](and101-project2.gif)
 
 ## License
 
